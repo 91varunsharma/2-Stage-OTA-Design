@@ -1,4 +1,5 @@
 # 2-Stage-OTA-Design
+A 2-stage OTA was designed using 180nm technology on Cadence
 
 **The design requirements were as follows:**
 - **ACL(s) = 2 (in-band gain for the closed-loop system)**
