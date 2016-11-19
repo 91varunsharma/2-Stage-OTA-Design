@@ -2,7 +2,7 @@
 
 **The design requirements were as follows:**
 - **ACL(s) = 2 (in-band gain for the closed-loop system)**
-- **ω−3dB (upper bandwidth limit for the closed-loop system) = 2π * 15 * 106 rad/s**
+- **ω−3dB (upper bandwidth limit for the closed-loop system) = 2π * 15 * 10^6 rad/s**
 - **Slew Rate = 30 V/μs**
 - **Phase Margin > 70°**
 
