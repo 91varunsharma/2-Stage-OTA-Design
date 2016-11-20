@@ -15,7 +15,7 @@ and PMOS transistors followed by simulations using 180nm technology on Cadence.
 As per the given constraints for the circuit to be designed, it was supposed to be designed
 for a feedback factor β = C1/(C1+C2) = 1/2. To achieve a closed loop gain of ACL = 2 with the given
 β factor the circuit is supposed to have a very high open loop gain of the order of approximately
-102 ~ 106or higher.
+10^2 ~ 10^6 or higher.
 
 High gain being a major requirement of the system, a 2-stage Operational Transconductance Amplifier (OTA) topology,
 which offers many advantages over its counter parts, has been chosen for the design.
